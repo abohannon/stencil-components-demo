@@ -1,0 +1,1 @@
+import{p as e,b as t}from"./p-d46cc8bc.js";(()=>{const t=import.meta.url,c={};return""!==t&&(c.resourcesUrl=new URL(".",t).href),e(c)})().then((e=>t([["p-1e5e75ce",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],e)));
